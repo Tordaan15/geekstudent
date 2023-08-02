@@ -41,6 +41,8 @@
 *Для вставки изоражения в текст можно совершить ошибку, вызвавшую конфликт*
  
 Для взаимодействия с Github используй:
-git remote add origin
-git branch -M main
-git push -u origin main
+**git remote add origin**
+
+**git branch -M main**
+
+**git push -u origin main**
