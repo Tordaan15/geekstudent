@@ -47,3 +47,11 @@
 **git branch -M main**
 
 **git push -u origin main**
+
+Далее:
+ используй:
+
+ Git push
+
+ git pull
+
